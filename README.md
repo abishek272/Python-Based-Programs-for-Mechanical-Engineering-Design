@@ -1,0 +1,2 @@
+# Python-Based-Programs-for-Mechanical-Engineering-Design
+Python is used in mechanical engineering , analyze machine components, and automate CAD modeling. It helps engineers calculate stress, strain, force, torque, and gear dimensions. Python libraries such as NumPy, SciPy, and Matplotlib support engineering calculations, simulations, and data visualization, improving design accuracy and efficiency.
